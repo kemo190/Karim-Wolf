@@ -20,7 +20,7 @@ function App() {
   <div className="bg-black/50 backdrop-blur-md p-8 rounded-2xl shadow-xl max-w-2xl text-center">
     <h1 className="text-4xl font-bold mt-4">Hi, I'm Karim 👋</h1>
     <p className="mt-4 text-lg">
-      Front-end Developer & Designer | HTML, CSS, JS, Flutter, Python
+      Front-end Developer & Designer | HTML, CSS, JS, Python
     </p>
     <p className="mt-2 text-md text-gray-300">
       Computer Science Student at Zagazig University 🎓
